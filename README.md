@@ -4,6 +4,7 @@
 
 - <b>🛢️ SQL Exploratory Data Analysis</b>
   - [Analyzing Student's Mental Health](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Exploring London's Travel Network](https://www.datacamp.com/datalab/w/ecf43e5a-f9c3-4119-8e9c-c48981cfc979/edit)
  
 <h2>📺 Popular YouTube Videos</h2>
 
